@@ -21,10 +21,10 @@ For each test case, print:
 
 ## Example
 **Input**
-3
-2 4 8
-8 6 8
-10 2 6
+3                                                                                              
+2 4 8                                                                                          
+8 6 8                                                                                          
+10 2 6                                                                                       
 
 **Output**
 Too Early
