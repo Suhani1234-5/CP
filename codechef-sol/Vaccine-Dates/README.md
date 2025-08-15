@@ -26,7 +26,7 @@ For each test case, print:
 8 6 8                                                                                          
 10 2 6                                                                                       
 
-**Output**
-Too Early
-Take second dose now
-Too Late
+**Output**                                                                                     
+Too Early                                                                                      
+Take second dose now                                                                           
+Too Late                                                                                     
