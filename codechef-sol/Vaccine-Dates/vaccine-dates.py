@@ -1,5 +1,5 @@
 ## Code
-```python
+###python
 n = int(input())
 for _ in range(n):
     D, L, R = map(int, input().split())
