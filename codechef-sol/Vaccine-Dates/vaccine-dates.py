@@ -6,6 +6,6 @@ for _ in range(n):
     if L <= D <= R:
         print("Take second dose now")
     elif D > R:
-        print("Too Late")
+14-longest-common-prefix        print("Too Late")
     else:
         print("Too Early")
